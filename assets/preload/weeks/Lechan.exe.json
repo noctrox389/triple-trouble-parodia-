@@ -1,0 +1,20 @@
+{
+	"songs": [
+		["Triple Trouble", "tails", [50, 50, 50]]
+	],
+
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekBackground": "Sanic",
+
+	"storyName": "",
+	"weekBefore": "",
+	"weekName": "",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Beast.png">
+	<!-- Created with Adobe Animate version 21.0.1.37179 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Beast_DOWN0000" x="0" y="0" width="614" height="800"/>
+	<SubTexture name="Beast_IDLE0000" x="644" y="0" width="541" height="940"/>
+	<SubTexture name="Beast_LAUGH0000" x="1250" y="0" width="534" height="704"/>
+	<SubTexture name="Beast_LEFT0000" x="0" y="953" width="866" height="853"/>
+	<SubTexture name="Beast_RIGHT0000" x="880" y="945" width="752" height="873"/>
+	<SubTexture name="Beast_UP0000" x="0" y="1813" width="626" height="1020"/>
+</TextureAtlas>
